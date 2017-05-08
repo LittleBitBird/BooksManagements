@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Books management system</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_book__search_">Book_Search_Activity</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="title_activity_book__insert_">Book_Insert_Activity</string>
+    <string name="title_activity_book__delete_">Book_Delete_Activity</string>
+    <string name="title_activity_book__update_">Book_Update_Activity</string>
+    <string name="title_activity_login">Login</string>
+
+</resources>

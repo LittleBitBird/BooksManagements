@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <item
+        android:id="@+id/item1"
+        android:title="作者：吴冠华">
+    </item>
+    <item
+        android:id="@+id/item2"
+        android:title="完成时间：2017/4/3">
+    </item>
+    <item
+        android:id="@+id/item3"
+        android:title="项目名称：图书管理系统">
+    </item>
+    <item
+        android:id="@+id/item4"
+        android:title="版本号：v1.0.1">
+    </item>
+
+</menu>

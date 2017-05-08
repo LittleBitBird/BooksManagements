@@ -1,0 +1,43 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent" 
+    >
+
+    <TextView
+        android:id="@+id/BookList1"
+        android:layout_width="40dp"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="2dp"
+        android:gravity="center"
+        android:text="0001" />
+
+    <TextView
+        android:id="@+id/BookList2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:gravity="center"
+        android:text="老人与海" />
+
+    <TextView
+        android:id="@+id/BookList3"
+        android:layout_width="70dp"
+        android:layout_height="wrap_content"       
+        android:gravity="center"
+        android:text="柴可脱四级" />
+
+    <TextView
+        android:id="@+id/BookList4"
+        android:layout_width="40dp"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:text="45" />
+
+    <TextView
+        android:id="@+id/BookList5"
+        android:layout_width="40dp"
+        android:layout_height="wrap_content"
+        android:gravity="center"      
+        android:text="正常" />
+
+</LinearLayout>
